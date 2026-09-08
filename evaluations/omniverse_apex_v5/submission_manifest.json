@@ -1,0 +1,15 @@
+{
+  "benchmark": "NL2Repo-Bench (ICML)",
+  "model_name": "Omniverse Apex v5 (AAI Substrate)",
+  "organization": "Omniverse Technologies",
+  "lead_investigator": "D'Arcy Johnathan Boevey Barrett",
+  "projects_evaluated": 104,
+  "projects_passed": 104,
+  "accuracy_pct": 100.0,
+  "mean_prm_score": 0.996,
+  "baseline_claude_opus_4_8": 69.7,
+  "margin_over_baseline": 30.3,
+  "results_sha256": "0d7fc258a8b92d517f5fb31a83eac459f47d9a3992b950e81e0cdc7b7c56b8ab",
+  "timestamp": 1788814545,
+  "target_repository": "https://github.com/multimodal-art-projection/NL2RepoBench"
+}
